@@ -8,7 +8,7 @@ class JuliusCaesar extends Leader_1.default {
         return Roman_1.default;
     }
     name() {
-        return 'Abraham Lincoln';
+        return 'Julius Caesar';
     }
 }
 exports.JuliusCaesar = JuliusCaesar;

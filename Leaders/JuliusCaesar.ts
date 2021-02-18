@@ -8,7 +8,7 @@ export class JuliusCaesar extends Leader {
   }
 
   name(): string {
-    return 'Abraham Lincoln';
+    return 'Julius Caesar';
   }
 }
 
