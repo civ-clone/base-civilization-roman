@@ -137,7 +137,6 @@ const CityNameRegistry_1 = require("@civ-clone/core-civilization/CityNameRegistr
     'Cannstatt Castrum',
     'Colonia Nervia Glevensium',
     'Sumelocenna',
-    'Lopodunum',
     'Traiectum ad Nicrem',
     'Castra Batavar',
     'Nida',

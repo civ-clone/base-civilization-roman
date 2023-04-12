@@ -1,4 +1,3 @@
 # base-civilization-roman
 
-This is a template repo.
-
+`Roman` `Civilization` class and `Leader`s classes, and `City` names.
